@@ -1,0 +1,18 @@
+Origin: Example Repository
+Label: livestreamer
+Suite: stable
+Codename: stable
+Version: 1.0.6
+Architectures: amd64
+Components: main
+Description: An example software repository
+Date: Thu, 18 Apr 2024 06:36:50 +0000
+MD5Sum:
+ 4f7c90af63e1a734fcef443f0ad4e351 292 main/binary-amd64/Packages.gz
+ 7a94e5742cb88accd411c2d5b68edf71 369 main/binary-amd64/Packages
+SHA1:
+ bf07e4fc14ada0861dc4c8af1697bc9f41459d6b 292 main/binary-amd64/Packages.gz
+ 5284d138d66446221af6042763ebb5bf25ea5257 369 main/binary-amd64/Packages
+SHA256:
+ bbb5412c6cd1abf2c847efcc9b7c1e051c2a1eccc96667d173dd206d64002f71 292 main/binary-amd64/Packages.gz
+ ba6f299a82754d40eaf3896a5abb1c6c792a2a4f3911b9d64396e67e5641ae01 369 main/binary-amd64/Packages

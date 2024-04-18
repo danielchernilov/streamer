@@ -1,0 +1,11 @@
+Package: liveStreamer
+Version: 1.0.6
+Architecture: amd64
+Maintainer: ImpleoTV <info@impleotv.com>
+Depends: ffmpeg
+Filename: pool/main/livestreamer_1.0.6-1_amd64.deb
+Size: 13685584
+MD5sum: 8248ea4bad13e236198c9be58fd98017
+SHA1: 01873d846a5863a0e3c95f39cb8ec0d885dcdadb
+SHA256: e14b6aa2fe8bbaf8bba4b21767e21d87b274a8a574fd7170bc612a63b7978c73
+Description: Live Streamer
