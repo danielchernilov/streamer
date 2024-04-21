@@ -24,8 +24,6 @@ jobs:
     - name: Add Streamer Repository
       run: echo "deb [trusted=yes] https://github.com/danielchernilov/streamer/releases/download/v1.0.6/ stable main" | sudo tee /etc/apt/sources.list.d/github-streamer.list
 
-    - name: Update APT
-      run: sudo apt update
 
     - name: Install Livestreamer
       run: sudo apt install -y livestreamer
